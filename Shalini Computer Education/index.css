@@ -1,0 +1,434 @@
+
+             /* --------------------header start ------------------------------------------ */
+.he1{       /* */
+    width: 100%;
+    height: 45px;
+    background-color: rgb(197, 197, 238);
+   
+}
+.btn{
+    width: 40px;
+    background-color: rgb(197, 197, 238);
+    border: none;
+    margin-top: 8px;
+    margin-left: 60px;
+}
+.btn1{
+    width: 90px;
+    background-color: rgb(197, 197, 238);
+    border: none;
+    margin-top: 8px;
+    font-size: 20px;
+   
+   
+}
+.btn2{
+    width: 190px;
+    background-color: rgb(197, 197, 238);
+    border: none;
+    margin-top: 8px;
+    font-size: 20px;  
+}
+.insta{
+    width: 40px;
+    background-color: rgb(197, 197, 238);
+    border: none;
+    margin-top: 8px;
+    margin-left: 610px;
+} 
+.google{
+    width: 40px;
+    background-color: rgb(197, 197, 238);
+    border: none;
+    margin-top: 8px;
+   
+} 
+
+     /* name of website */
+
+.he2{
+    width: 100%;
+    height: 165px;
+    background-color:rgb(35, 35, 196);  
+}
+.header{
+    height: 165px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+                   /* --------------------Menu Bar ------------------------------------------ */
+.he3{
+    width: 100%;
+    height: 45px;
+    background-color: rgb(93, 93, 182);
+    
+}
+.bar{
+    width: 90px;
+    height: 30px;
+    background-color: rgb(93, 93, 182);
+    border: none;
+    margin-top: 8px;
+    margin-left: 10%; 
+    font-size: 20px; 
+    cursor: pointer;
+    color: white; 
+}
+.bar1{
+    width: 95px;
+    height: 30px;
+    font-size: 12px;
+    background-color: rgb(93, 93, 182);
+    border: none;
+    margin-top: 8px; 
+    font-size: 20px;
+    cursor: pointer;  
+    color: white; 
+}
+.bar2{
+    width: 150px;
+    height: 30px;
+    font-size: 12px;
+    background-color: rgb(93, 93, 182);
+    border: none;
+    margin-top: 8px;  
+    font-size: 20px;  
+    cursor: pointer;
+    color: white; 
+}
+.bar3{
+    width: 120px;
+    height: 30px;
+    font-size: 12px;
+    background-color: rgb(93, 93, 182);
+    border: none;
+    margin-top: 8px;  
+    font-size: 20px; 
+    cursor: pointer; 
+    color: white; 
+}
+#menubar:hover{
+  color: rgb(238, 17, 17);
+}
+
+
+
+                  /* --------------------header end ------------------------------------------ */
+.img{
+    width: 80%;
+    height: 400px;
+    background-image: url(./images/slide\ iomage_1553836997.jpg); background-repeat: no-repeat; background-size: cover;
+    margin-left: 10%;
+}
+.news{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(248, 247, 247);
+}
+.a{
+    height: 100px;
+
+    margin-left: 25%;
+    margin-top: -40px;
+}
+.newsbtn{
+    height: 55px;
+    width: 200px;
+    margin-left: 10%;
+    margin-top: 22px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: rgb(44, 44, 240);
+    color: white;
+    border: none;
+}
+.mar{
+color: black;
+margin-top: -30px;
+
+}
+.news2{
+    width: 80%;
+    height: 400px;
+    background-color: white;
+    font-size: 20px;
+    margin-left: 10%;
+}
+.morebtn{
+    height: 50px;
+    width: 200px;
+    margin-left: 40%;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.vd{
+    width: 80%;
+    height: 350px;
+    background-color: white;
+    margin-left: 10%;
+    display: flex;
+}
+
+.dv1{
+    height: 300px;
+    width: 25%;
+    background-color:  rgb(248, 247, 247);
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 1px solid gray;
+}
+.dv1txt{
+    margin-left: 30%;
+    margin-top: 7px;
+}
+.und{
+    margin-top: -7px;
+    border: 1px solid black;
+}
+.latesttext{
+    width: 79%;
+    background-color: rgb(248, 247, 247);
+    height: 82%;
+    margin-left: 11.5%;
+}
+.dv2{
+    height: 300px;
+    width: 40%;
+    background-color:  white;
+    margin-left: 5%;
+    margin-top: 20px;
+    border: 1px solid gray;
+    border: none;
+}
+.dv2vd1{
+    margin-left: 15%;
+    background-color: white;
+    height: 60px;
+    width: 70%;
+    border: none;
+}
+.vdfix{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}
+.video{
+    width: 100%;
+    height:240px ;
+   
+    border-radius: 20px;
+   
+}
+.videofix{
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.dv3{
+    height: 300px;
+    width: 25%;
+    background-color:  rgb(248, 247, 247);
+    margin-left: 5%;
+    margin-top: 20px;
+    border-radius: 20px;  border: 1px solid gray;
+}
+.oth1{
+    width: 76%;
+    height: 300px;
+    background-color: white;
+    margin-left: 12%;
+    display: flex;
+}
+.oth11{
+    height: 300px;
+    width: 55%;
+    background-color: rgb(248, 247, 247);
+    border: 1px solid gray;
+   
+}
+.oth12{
+    height: 300px;
+    width: 35%;
+    margin-left: 10%;
+    background-color: rgb(248, 247, 247);
+    border: 1px solid gray;
+}
+.form{
+    height: 20px;
+    width: 95%;
+    margin-left:1%;
+    margin-top: 3px;
+}
+.course{
+    height: 25px;
+    width: 97.5%;
+    margin-left: 3px;
+}
+.txtarea{
+    width: 95%;
+    height: 55px;
+    margin-left: 1%;
+}
+.capcha{
+    height: 20px;
+    width: 50px;
+    margin-top: 10px;
+    margin-left: 18%;
+}
+.capchatxt{
+    height: 20px;
+    width: 50px;
+    margin-top: 10px;
+    margin-left: 5%;
+}
+.submitbtn{
+    height: 25px;
+    width: 70px;
+    margin-left: 5%;
+}
+
+    .adv{
+        margin-left: 10%;
+        font-size:25px;
+       
+    }
+
+    .adv1{
+        width: 28%;
+        height: 180px;
+        background-color: red;
+        margin-left: 4%;
+    }
+    .adv2{
+        width: 28%;
+        height: 180px;
+        background-color: red;
+        margin-left: 36%;
+        margin-top: -180px;
+    }
+    .adv3{
+        width: 28%;
+        height: 180px;
+        background-color: red;
+        margin-left: 68%;
+        margin-top: -180px;
+    }
+
+    .advimg{
+        height: 100%;
+        width: 100%;
+    }
+
+
+
+
+
+                    /* --------------------footer start ------------------------------------------ */
+                     /* --------------------slide images ------------------------------------------ */
+    .oth2{
+        width: 80%;
+        height: 150px;
+        background-color: white;
+        margin-left: 10%;
+        display: flex;
+    }
+.slide{
+    height: 100px;
+    width: 200px;
+    background-color: white;
+    margin-top: 25px;
+    border: 1px solid black;
+}
+.slide1{
+    height: 100px;
+    width: 200px;
+    background-color: white;
+    margin-top: 25px;
+    margin-left: 15px;
+    border: 1px solid black;
+}
+
+                        /* --------------------Contact Detail ------------------------------------------ */
+.con{
+    width: 100%;
+    height: 303px;
+    background-color:rgb(35, 35, 196);
+   
+}
+.conbtn{
+    height: 40px;
+    width: 250px;
+    background-color:rgb(35, 35, 196);
+    margin-left: 10%;
+    margin-top: 8px;
+    border: 2px dotted black;
+    border-top: none;
+    border-right: none;
+    font-size: 18px;
+    
+}
+.addr{
+    height: 280px;
+    width: 350px;
+    margin-left: 35%;
+    margin-top: -220px;
+    background-color:rgb(35, 35, 196);
+}
+.boyimg{
+    margin-left: 65%;
+    margin-top: -500px;
+}
+.b{
+    padding-left: 20px;
+    margin-top: -10px;
+  
+}
+.c{
+    padding-left: 30px;
+    margin-top: -5px;
+    color: red;
+}
+.d{
+   margin-top: -20px;
+  margin-left: -10px;
+}
+.e{
+
+    margin-left: 20%;
+    
+}
+.icon{
+   
+    background-color:rgb(35, 35, 196);
+    border: none;
+    cursor: pointer;
+}
+
+
+                           /* --------------------Last Div ------------------------------------------ */
+.lt{
+    width: 100%;
+    height: 40px;
+    background-color: rgb(93, 93, 182);
+}
+.copyrite{
+ position: relative;
+ top: -8px;
+  left: 10%;
+}
+.dev{
+    position: relative;
+    top: -8px;
+    left: 55%;   
+}
+
+
+.img1{
+    height: 100px;
+    width: 164px;
+}
+
+
+                            /* --------------------Footer End ------------------------------------------ */

@@ -1,0 +1,301 @@
+
+                    /* --------------------header start ------------------------------------------ */
+                    .he1{
+                        width: 100%;
+                        height: 45px;
+                        background-color: rgb(197, 197, 238);
+                       
+                    }
+                    .btn{
+                        width: 40px;
+                        background-color: rgb(197, 197, 238);
+                        border: none;
+                        margin-top: 8px;
+                        margin-left: 60px;
+                    }
+                    .btn1{
+                        width: 90px;
+                        background-color: rgb(197, 197, 238);
+                        border: none;
+                        margin-top: 8px;
+                        font-size: 20px;
+                       
+                       
+                    }
+                    .btn2{
+                        width: 190px;
+                        background-color: rgb(197, 197, 238);
+                        border: none;
+                        margin-top: 8px;
+                        font-size: 20px;  
+                    }
+                    .insta{
+                        width: 40px;
+                        background-color: rgb(197, 197, 238);
+                        border: none;
+                        margin-top: 8px;
+                        margin-left: 610px;
+                    } 
+                    .google{
+                        width: 40px;
+                        background-color: rgb(197, 197, 238);
+                        border: none;
+                        margin-top: 8px;
+                       
+                    } 
+                    
+                    /* header start */
+                    
+                    .he2{
+                        width: 100%;
+                        height: 165px;
+                        background-color:rgb(35, 35, 196);  
+                    }
+                    .header{
+                        height: 165px;
+                        width: 80%;
+                        margin-left: 10%;
+                    }
+                    .he3{
+                        width: 100%;
+                        height: 45px;
+                        background-color: rgb(93, 93, 182);
+                        
+                    }
+                    .bar{
+                        width: 90px;
+                        height: 30px;
+                        background-color: rgb(93, 93, 182);
+                        border: none;
+                        margin-top: 8px;
+                        margin-left: 10%; 
+                        font-size: 20px; 
+                        cursor: pointer;
+                        color: white; 
+                    }
+                    .bar1{
+                        width: 95px;
+                        height: 30px;
+                        font-size: 12px;
+                        background-color: rgb(93, 93, 182);
+                        border: none;
+                        margin-top: 8px; 
+                        font-size: 20px;
+                        cursor: pointer;  
+                        color: white; 
+                    }
+                    .bar2{
+                        width: 150px;
+                        height: 30px;
+                        font-size: 12px;
+                        background-color: rgb(93, 93, 182);
+                        border: none;
+                        margin-top: 8px;  
+                        font-size: 20px;  
+                        cursor: pointer;
+                        color: white; 
+                    }
+                    .bar3{
+                        width: 120px;
+                        height: 30px;
+                        font-size: 12px;
+                        background-color: rgb(93, 93, 182);
+                        border: none;
+                        margin-top: 8px;  
+                        font-size: 20px; 
+                        cursor: pointer; 
+                        color: white; 
+                    }
+                    #menubar:hover{
+                        color: rgb(238, 17, 17);
+                      }
+                      
+                                  /* --------------------header End------------------------------------------ */   
+                    .blank{
+                        width: 100%;
+                        height: 800px;
+                        background-color: white;
+                        display: flex;
+                    }
+                    
+                    .blank1{
+                        width: 59%;
+                        height: 700px;
+                       
+                       
+                        margin-left: 10%;
+                        background-color: rgb(248, 247, 247)ink;
+                    }
+                    .dvv1{
+                        width: 100%;
+                        height: 10%;
+                        background-color:  rgb(248, 247, 247);
+                        border-radius: 20px;
+                      
+                    }
+                    .cert{
+                        margin-left: 5%;
+                    padding-top: 15px;
+                    }
+                    .nm{
+                       margin-top: 10px;
+                       color: red;
+                    }
+                    .det{
+                        margin-left: 61%;
+                        margin-top: -40px;
+                    }
+                    .link{
+                        margin-top: -15px;
+                        margin-left: 10px;
+                    }
+                    .dvv2{
+                        width: 100%;
+                        height: 9%;
+                        background-color:  rgb(248, 247, 247);
+                        border-radius: 20px;
+                        
+                    }
+              
+                    .blank2{
+                        width: 21%;
+                        height: 700px;
+                     background-color:  white;
+                     
+                    
+                    }
+                    
+                    .news{
+                        height: 400px;
+                        width: 100%;
+                        background-color: rgb(248, 247, 247);
+                        border-radius: 20px;
+                        border: 1px solid gray;
+                        
+                    }
+                    .blank2txt{
+                       margin-left: 30%;  
+                       margin-top: 0px;
+                    }
+                    .und{
+                        margin-top: -7px;
+                        border: 1px solid black;
+                    }
+                    .photodv{
+                        width: 100%;
+                        height: 100px;
+                        background-color: yellow;
+                        border: 1px solid black;
+                        margin-top: 7px;
+                        border-radius: 20px;
+                    }
+                    .photo{
+                        height: 100%;
+                        width: 100%;
+                        border-radius: 20px;
+                    }
+                    
+                    
+                    
+                                                /* --------------------footer start ------------------------------------------ */
+                    
+                    .oth2{
+                        width: 80%;
+                        height: 150px;
+                        background-color: white;
+                        margin-left: 10%;
+                        display: flex;
+                    }
+                    .slide{
+                        height: 100px;
+                        width: 200px;
+                        background-color: white;
+                        margin-top: 25px;
+                        border: 1px solid black;
+                    }
+                    .slide1{
+                        height: 100px;
+                        width: 200px;
+                        background-color: white;
+                        margin-top: 25px;
+                        margin-left: 15px;
+                        border: 1px solid black;
+                    }
+                    .con{
+                        width: 100%;
+                        height: 303px;
+                        background-color:rgb(35, 35, 196);
+                       
+                    }
+                    .conbtn{
+                        height: 40px;
+                        width: 250px;
+                        background-color:rgb(35, 35, 196);
+                        margin-left: 10%;
+                        margin-top: 8px;
+                        border: 2px dotted black;
+                        border-top: none;
+                        border-right: none;
+                        font-size: 18px;
+                        
+                    }
+                    .addr{
+                        height: 280px;
+                        width: 350px;
+                        margin-left: 35%;
+                        margin-top: -220px;
+                        background-color:rgb(35, 35, 196);
+                    }
+                    .boyimg{
+                        margin-left: 65%;
+                        margin-top: -500px;
+                    }
+                    .b{
+                        padding-left: 20px;
+                        margin-top: -10px;
+                      
+                    }
+                    .c{
+                        padding-left: 30px;
+                        margin-top: -5px;
+                        color: red;
+                    }
+                    .d{
+                       margin-top: -20px;
+                      margin-left: -10px;
+                    }
+                    .e{
+                    
+                        margin-left: 20%;
+                        
+                    }
+                    .icon{
+                       
+                        background-color:rgb(35, 35, 196);
+                        border: none;
+                        cursor: pointer;
+                    }
+                    .lt{
+                        width: 100%;
+                        height: 40px;
+                        background-color: rgb(93, 93, 182);
+                    }
+                    .copyrite{
+                     position: relative;
+                     top: -8px;
+                      left: 10%;
+                    }
+                    .dev{
+                        position: relative;
+                        top: -8px;
+                        left: 55%;   
+                    }
+                    
+                    
+                    .img1{
+                        height: 100px;
+                        width: 164px;
+                    }
+                    
+                                            /* --------------------footer End ------------------------------------------ */
+                    
